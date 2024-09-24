@@ -1,0 +1,6 @@
+int main() {
+    int res;
+    res = getint();
+    printf("res = %d\n", res);
+    return 0;
+}
